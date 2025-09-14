@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nnanna  
 
-<a href="https://www.linkedin.com/in/donald-kalu-35604b375/">
+<a href="https://www.linkedin.com/in/ude-nnanna-a8273833a//">
   <img src="https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
